@@ -1,4 +1,4 @@
-# SPT_boilerplate
+# WEB
 
 ## Git commit convention
 
